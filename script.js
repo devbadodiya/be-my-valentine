@@ -91,7 +91,7 @@ yesButton.addEventListener("click", () => {
 
   //yes page
   valentineQuestion.innerHTML = `
-      <img src="./images/image7.gif" alt="Celebration duckie" style="display: block; margin: 0 auto; width: 200px; height: auto;"/>
+      <img src="./images/default.gif" alt="Celebration duckie" style="display: block; margin: 0 auto; width: 200px; height: auto;"/>
       ahahah got youuuu P !
     `;
   valentineQuestion.style.textAlign = "center";
